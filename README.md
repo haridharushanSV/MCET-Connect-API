@@ -1,6 +1,6 @@
 # hostelite
 
-> simple hostel project
+> hostel Automation Software
 
 ## Build Setup
 
